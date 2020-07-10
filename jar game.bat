@@ -1,0 +1,1 @@
+jar cf textworld.jar *.class rooms.txt items.txt

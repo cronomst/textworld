@@ -1,0 +1,76 @@
+Main:
+Output location -> Wait for input -> Parser -> Interpreter -> LOOP
+
+Parse:
+Break input up into ids representing:
+	action - int for action type (take, drop, push, open, look)
+	object1 - int for id of object to take action upon (push [button])
+	object2 - int for id of second object to take action upon (use knife on [rope])
+
+
+
+Item class
+Name
+Description
+Aliases (words used to describe item)
+id
+fixed (item cannot be taken if this value is TRUE)
+
+
+Player class:
+Inventory
+Flags
+current_room
+
+
+
+Room input file format:
+id
+Name
+Description
+north exit id
+south exit id
+east exit id
+west exit id
+up exit id
+down exit id
+dark?
+contents count
+contents ids
+
+
+Item input file format:
+id
+Name
+Description
+Aliases
+takeable
+
+
+Player save data required:
+current room id
+inventory
+flags
+list of all rooms that contain items and the items they contain
+
+
+
+Interpreter (should extend BasicInterpreter that handles universal actions):
+switch (action)
+	case LOOK:
+		if (object1 = null)
+			current_room.showDescription()
+		else
+			object1.showDescription()
+
+	case TAKE:
+		if (object1.can_take)
+		inventory.add(object1)
+		current_room.remove(object1)
+	case PUSH:
+		if (current_room.id=="R2" && object1.id="ITEM12")
+			if (!player.getFlag("button_pushed").equals("true"))
+				display("You push the button and the room explodes.")
+				player.setFlag("button_pushed", "true")
+			else
+				display("You've already pushed the button.  You've done enough damage.")

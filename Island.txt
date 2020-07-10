@@ -1,0 +1,114 @@
+Room 00 - Relaxing Cliffside
+
+You are standing in an open field of tall grass towards the eastern edge of an island.  A cool sea breeze blows past you and a cloudless blue sky makes you feel completely at peace.  From your position you can peer over the side of the rock ledge to the east and watch the light-blue waves crash against the rocks a few hundred feet below you.  The rock ledge appears to be unscaleable due to its slick surface and rapid descent.  
+
+Looking to the [N]orth, you see what appears to be the entrance of a small forest.  To the [W]est, you see a long-abandoned path leading to a cliffside.  There appears to be a rope bridge leading off the island to the [S]outh, though a large figure seems to be standing in front of it.
+
+
+Room 01 - The Golem and the Bridge
+
+Heading south, you can see that the entire island tapers off to this single point.  The tall grass gives way to loose rock and eventually you are walking on a path of limestone.  As you move towards the rocky ledge housing the rope bridge a tall stone golem immediately snaps to attention and centers itself directly in front of your means of escape.  Once positioned, its eyes glow with a faint green hue and from its form you hear "This path is inaccessible for those who have not uttered the words of passage."
+
+Glancing around, you see a peaceful glade to the [N]orth.  The rope bridge, and your freedom, lie to the [S]outh.
+
+Golem description:
+The golems tall stone body is adorned with various runes and markings.  Even as it stands motionless it appears animated, as the markings dance with an unearthly light.  This "creature" is obviously magical.  You figure it stands roughly twelve feet tall and if solid it should weigh around a ton.  There is no way that you could take this thing in a fight, and if you meant to use the bridge without its permission that's exactly what you'd have to do.
+
+
+Room 02 - The Table
+
+Wandering through the grass you come to another cliff and what seems to be a large stone table set at the very edge.  Much like the rest of the island, the ledge drops off rapidly enough that it would not be healthy to attempt to climb it, at least without some sort of climbing gear.  Wild grass and vines surround the stone table which stands about four feet tall and eight feet wide.  It appears to be lined with various carvings and strange glyphs and the top is stained a brackish brown and has some wide cuts about half-way across.  You have no idea what this thing could have been used for, but a sneaking suspicion leads you to believe it wasn't for picnics.
+
+Aside from the lovely seaside cliffs, you see a path through the grass leading to the [E]ast.
+
+
+Room 03 - Tropical Forest
+
+You push into the treeline and find yourself standing in the middle of a dense forest.  Tall trees block out the sun, leaving this area dark and cool compared to the rest of the island.  Small birds flit from branch to branch and cheer up this otherwise plain and gloomy area.  Thick vines and felled branches line your limited path through the forest.  Not knowing what creepy-crawlies might lurk under every rock, you decide to take your time moving through and avoid getting bit by whatever spider or snake might be lying in wait.
+
+To the [N]orth and [E]ast you see that the forest continues.  To the [S]outh you can spot a clearing--an obvious exit from this maze of trees.
+
+(Two ‘Large Branch’ lie here.  Large Branches are heavy enough that you can only carry one at a time.  Branches are worth no points.)
+
+
+Room 04 - Dense Tropical Forest
+
+Foliage and large branches block your vision more than a few feet from your face as you enter what must be the thickest part of this tropical forest.  Just a short distance away you can hear shapeless wildlife scurrying about and you are actually a little thankful that you can't see whatever it is.  As you venture further in you find that several trees have carvings all along their trunks.  The markings are pretty high up, so you figure that whoever or whatever made them have long since past.  Either that or giants on the island have taken up vandalism.
+
+Peering through the leaves and vines, you spot additional forest to your [W]est and [S]outh.  Though you cannot see it, you can hear the roar of waves against rock to the north and east and figure the island cliffs are fairly close by.
+
+(One ‘Large Branch’ lies here.  Large Branches are heavy enough that you can only carry one at a time.  Branches are worth no points.)
+
+
+Room 05 - The Forest Fort
+
+Coming out from the dense forest into a small clearing, you immediately spot an extraordinarily large tree at the center.  The tree's most interesting feature, aside from its size, is the fact that it has numerous planks nailed into its trunk forming a ladder up to a tree hut or fort of some kind.  The structure is large--the size of a house you figure.  Even from here you can see that the "fort" is in an extreme state of disrepair; vines, moss and wood rot cover the large structure.  Regardless of this, however, you figure if you step carefully you can probably explore up there.
+
+To the [W]est you can reenter the heavier forest.  With a careful climb, you can also make your way [U]p into the tree fort.
+
+
+Room 06 - The Fort Entrance
+
+Though almost completely overtaken by the natural growth of the area, this structure was original finely crafted.  Looking around you can spot little faces, animals and other intricate designs carved into the rotten wood.  The floor of this place is high enough on the tree that you have to crouch to get around without branches at head level.  As you begin moving slowly, the planks of wood give off strained creaks and pops.  You figure in another year or so this will have fallen apart.  For now, though, you can pass through it without incident.
+
+This fort seems to encircle the entire tree.  From where you are, you move either [E]ast or [S]outh.
+
+
+Room 07 - The Fort Overlook
+
+As you crawl along the questionable planks of the tree fort, you come to an area that overlooks the sea below you.  Simply by this awesome sight alone you have justified in your mind why the locals--or whomever--built this structure in the first place.  You manage to catch a breeze from the ocean and catch a quick breather, dusting yourself off of all the grime and mold you've collected crawling around up here.  Up in the fort itself, you spot a small level composed of vine, stone and wood.  Much like the rest of this fort it appears decomposed, but you figure it might still be useable.
+
+Aside from diving a few hundred feet into the rocky ocean, the only exit you can make out is to crawl back towards the [W]est to the entrance of the tree fort.
+
+
+Room 08 - The Rotted End
+
+This portion of the tree fort has been completed eaten away by nature, leaving little more than a few thick branches and vines remaining.  One thing you can spot, however, is a long vine that has an end tied to a stone block.  It is hanging from a distance that you might be able to reach it if you had some sort of solid object like a branch or pole.  You don't think you'd want to try and grab for it otherwise, as one slip and you would be in for a nasty fall that would probably end your adventure.
+
+The only way out of this area is back to the [N]orth towards the entrance of the fort.
+
+(A ‘Pulley’ hangs here.
+
+
+Room 09 – The Secret Nook
+
+You find yourself in a very small room, comprising what you figure is about 80% of the tree’s original diameter.  What little light you have is streaming in from the forested area outside.  Though it is dim, you can make out rows of objects reflecting soft light, possibly vials or jars.  After your eyes become more accustomed to the low light, you realize that most of the objects have long since been smashed.  Roots and debris are scattered throughout what you can only assume is a small laboratory.  Stacks of ruined paper and leather line the walls and only faint images remain of what you could only assume to be important documents.
+
+To the [W]est you see the exit back into the forest clearing.  There are no other obvious exits from the secret area.
+
+
+Room 10 – The Cliffside Forest
+
+Wandering through rows of trees, you notice that the forest is tapering off into grassy hills.  That familiar sea breeze catches your hair as you look out to the north into the vast ocean.  Though not as heavily forested as the eastern part of the island, there is certainly more than enough remaining to find shade from the hot sun.
+
+The forest fades into an overgrown field to the [W]est.  That same forest grows thicker to the [E]ast.
+
+
+Room 11 – The Tangles
+
+This field is full of tall grass and hidden barbed plants.  Though you can make it through without any real injury, it is inconvenient to move as the sharp plants tear at your clothing and bare legs.  A short distance in you can notice a few movements in the grass—probably some type of small animal—but they move away from you as you try and close the distance.  Towering to the south of you is a large rocky peak that rises from the hills.  The rocks on this side of the island slope off enough that you probably couldn’t make it over the top, but you figure you can make your way along the edge of the slope and come out on the other end.
+
+To the [N]orth lies a small peninsula of grass and stone.  You could find yourself on the other side of the rocky peak if you head to the [S]outh.
+
+
+Room 12 – The Northern Peak
+
+The wind picks up around you as you approach the northern-most point of the island.  Though the weather is warm, you feel a chill come over you as you walk the rocky ledge and stare into the watery depths below.  This area is composed mostly of solid limestone, but small patches of dirt and grass dot the area.  
+
+The only other thing of mention here is a large stone, some five feet across, lying alone in the center of the area.  The stone isn’t comprised of the limestone that makes out the rest of the island and further investigation reveals that it has a strangle glyph at the top (if they have visited Room 02 it should also add “similar to the table you’ve seen earlier.”).
+
+The only exit from this foreboding area is the grassy field to the [S]outh.
+
+
+Room 13 – The Rocky Slopes
+
+The climb around the peak looked a lot easier than it turned out to be.  Grabbing solid parts of the rocky ledge, you slowly make progress along the side.  Every once and a while you accidentally grab a loose rock, causing stone and gravel to fall past your legs.  The occasional scratch is a fine alternative to falling into the ocean below...
+
+You can continue your climb to the safety of the grassy hills to the [N]orth or a small patch of flat stone to the [E]ast.
+
+
+Room 14 – The Cavern Entrance
+
+You stand on a solid platform of rock at the base of the island’s tallest peak.  Though the mountainous formation is impressive enough on its own, it is made greater by the fact that is home to the entrance to a cavern.  The large cave mouth greets you with an assortment of stalagmite and stalactite.  Though without any type of equipment it would be difficult to enter, you figure the sun will give you enough light to venture in a little if you felt brave enough.  Then again, you could always climb back to the safety of the grassy hills.
+
+If you dare, you may enter the large cavern entrance by moving [D]own into its sloping space.  Otherwise, the only available exit is back along the rock climb to [W]est.

@@ -1,0 +1,124 @@
+The camp
+You stand in the middle of your campsite.  Before you are the remains of last night's campfire, a few embers still glowing bright orange.  To the west lies a path that leads deeper into the forest.
+
+Exits:
+[West] - forest path
+
+Items:
+a flashlight
+your trusty pocket knife
+a cantine
+
+-----------------------------------------
+A forest path
+Shafts of light from the tree canopy dance around you as you walk down the path.  The forest is quiet, save your footsteps and the chirping of nearby birds and insects.  You can see your camp off to the east.
+
+Exits:
+[East] - The camp
+[West] - A fork in the path
+
+Items:
+lots of trees
+
+-------------------------------------
+A fork in the path
+The path splits three ways here.  The eastern path leads to your camp.  You faintly hear the sound of water to the west.
+
+Exits:
+[East] - A forest path
+[West] - Western path
+[South] - Southern path
+
+Items:
+a weathered sign - not useful.  Too worn to read.  Just a prop.
+
+--------------------------------------
+Western path
+You can see the glint of water through the trees to the west.  To the east, the path forks.
+
+Items:
+lots of trees
+
+Exits:
+[West] - East river bank
+[East] - A fork in the path
+
+--------------------------------------
+East river bank
+You stand on the eastern bank of a swiftly flowing river.  On the opposite bank, you see a small pontoon plane beached a few feet from the water's edge.
+
+Items:
+some trees <- climbable, but not the right ones to get across
+a swift river
+
+Exits:
+[North] - East bank - down river
+[South] - East bank - up river
+[East] - Western path
+
+-------------------------------------
+East bank - up river
+The river flows briskly to the north.  On the opposite bank is more dense forest with trees right up to the water's edge.  You can see the clearing to the northwest.
+
+Items:
+some trees <- climbable.  Player can jump from tree to tree to get to west bank.
+a swift river
+
+Exits:
+[North] - East river bank
+
+-------------------------------------
+East bank - down river
+The water is flowing very quickly here as it heads toward a waterfall to the north.  South leads back toward the path.
+
+Exits:
+[North] - The waterfall
+[South] - East river bank
+
+Items:
+a swift river
+
+-------------------------------------
+The waterfall
+You are surrounded by rocky, moss-covered cliffs.  There is a beautiful waterfall here that cascades water into a pool.  Mist from the waterfall floats through the air near the surface of the pool.  To the south is a steep incline leading back to the east bank of the river.
+
+Items:
+a tranquil pool
+mossy cliffs
+
+Exits:
+[South] - East bank - down river
+
+-------------------------------------
+
+West bank - up river
+There are trees close to the water here with branches that reach far over the river.  You can see the clearing with the plane to the north.
+
+Exits:
+[North] - The clearing
+
+Items:
+some trees
+a swift river
+
+------------------------------------
+
+The clearing
+You stand in the middle of a clearing in the forest.  Pulled up on the bank is a small pontoon plane.  
+Exits:
+[South] West bank - up river
+
+Items:
+a pontoon plane
+damaged prop
+a swift river
+
+------------------------------------
+
+Outside a cave
+You stand in front of the entrance to a dark cave.  You feel a breeze blowing into the cave, almost as if it is trying to pull you in.
+
+Exits:
+[South] - Inside the cave
+[North] - An overgrown path
+

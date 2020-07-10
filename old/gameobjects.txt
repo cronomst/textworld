@@ -1,0 +1,57 @@
+ALL GAME OBJECTS:
+id
+name
+description
+light source?
+contents
+=====================
+ROOM:
+n exit
+s exit
+e exit
+w exit
+
+dark?
+indoors?
+=====================
+ITEM:
+held?
+worn?
+ac
+atk power
+atk rate
+=====================
+MOB:
+id
+name
+description
+
+aggressive?
+maxhp
+hp
+atk power
+
+=====================
+
+class Room extends GameObject {
+	Exit[] exits;
+	boolean dark;
+	boolean indoors;
+
+	public class Exit {
+		static public int NORTH = 0;
+		static public int SOUTH = 1;
+		static public int EAST = 2;
+		static public int WEST = 3;
+		static public int UP = 4;
+		static public int DOWN = 5;
+		static public int EXIT_COUNT = 6;
+
+		public String link;
+		public String key;
+		public Exit(String l, String k) {
+			link = l;
+			key = k;
+		}
+	}
+}
